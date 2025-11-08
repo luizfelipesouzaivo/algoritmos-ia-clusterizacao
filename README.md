@@ -38,6 +38,7 @@ Parte 2 – Base de Dados e Análise Exploratória
 * Identificação de outliers e decisão por padronização dos dados com StandardScaler
 
 Parte 3 – Clusterização
+
 🔹 K-Means
 Definição de 3 clusters
 Interpretação dos grupos:
