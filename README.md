@@ -2,7 +2,6 @@
 
 Este projeto foi desenvolvido como entrega final da disciplina “Algoritmos de Inteligência Artificial para Clusterização” no Instituto INFNET, com o objetivo de aplicar técnicas de aprendizado não supervisionado para agrupar países segundo indicadores socioeconômicos e de saúde.
 
-
 # Objetivo do Projeto
 
 O trabalho consiste em aplicar algoritmos de clusterização (K-Means e Clusterização Hierárquica) para identificar grupos de países com características semelhantes, utilizando a base de dados do Kaggle:
